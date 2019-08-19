@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/../e-comm/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../e-comm/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../e-comm/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../e-comm/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../e-comm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../e-comm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gallary/images/bg.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/gallary/images/bird.jpg" beforeDir="false" />
@@ -23,7 +24,7 @@
       <change beforePath="$PROJECT_DIR$/gallary/images/paip.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/gallary/images/tube1.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/gallary/images/tube2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../gui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gui/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../gui/gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/../gui/gui.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../gui/gui2.py" beforeDir="false" />
@@ -38,12 +39,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main.py">
+        <entry file="file://$PROJECT_DIR$/floppy_bird.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="215">
+              <caret line="188" column="48" selection-start-line="188" selection-start-column="48" selection-end-line="188" selection-end-column="48" />
               <folding>
                 <element signature="e#0#46#0" expanded="true" />
               </folding>
@@ -63,18 +64,20 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>gallery</find>
+      <find>code</find>
     </findStrings>
     <replaceStrings>
       <replace>gallary</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/floppy_bird.py" />
       </list>
     </option>
   </component>
@@ -90,7 +93,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,6 +115,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,12 +179,12 @@
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5085537" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5085537" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -195,22 +198,12 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>191</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/main.py" />
+    <entry file="file://$PROJECT_DIR$/floppy_bird.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="215">
+          <caret line="188" column="48" selection-start-line="188" selection-start-column="48" selection-end-line="188" selection-end-column="48" />
           <folding>
             <element signature="e#0#46#0" expanded="true" />
           </folding>
